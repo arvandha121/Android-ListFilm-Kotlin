@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">SubmissionAplikasiSederhana</string>
+    <string name="heroes_name">Nama Film</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Avangers</item>
+        <item>Captain Marvel</item>
+        <item>Cek Toko Sebelah</item>
+        <item>Dilan</item>
+        <item>Jangkrik Bos</item>
+        <item>KKN</item>
+        <item>Resident Evil</item>
+        <item>Shangchi</item>
+        <item>My Stupid Bos</item>
+        <item>World War Z</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>The Avengers merupakan film yang menceritakan "earth's mightiest superhero" yang menyelematkan bumi dari serangan dari dalam dan luar planet bumi. Film ini dipenuhi oleh aktor dan aktris terkenal yang memerankan karakternya. </item>
+        <item>Captain Marvel merupakan film superhero yang diangkat dari karakter bernama Carol Denvers dalam Marvel Comics. Film rilisan 2019 ini disutradarai Anna Boden dan Ryan Fleck, yang juga turut terlibat dalam penulisan naskah bersama Geneva Robertson-Dworet, Nicole Perlman, dan Meg LaFauve. Diproduksi Marvel Studios dan didistribusikan Walt Disney Studios Motion Pictures, Captain Marvel menjadi film ke-21 dalam rangkaian Marvel Cinematic Universe (MCU). Meski begitu, plot Captain Marvel justru terjadi sebelum Avengers terbentuk, yaitu pada era 1990-an.</item>
+        <item>Setelah Erwin menerima tawaran kerja di Singapura, ayahnya sakit dan butuh dirinya untuk meneruskan usaha toko. Sementara Yohan, kakaknya yang kurang bertanggung jawab, merasa ayahnya pilih kasih.</item>
+        <item>Milea (Vanesha Prescilla) bertemu dengan Dilan (Iqbaal Ramadhan) di sebuah SMA di Bandung. Itu adalah tahun 1990, saat Milea pindah dari Jakarta ke Bandung. Perkenalan yang tidak biasa kemudian membawa Milea mulai mengenal keunikan Dilan lebih jauh.</item>
+        <item>Film yang menghidupkan kembali legenda trio komedi Warkop. Dono, Kasino dan Indro kembali beraksi di tengah hiruk pikuknya kota DKI Jakarta.</item>
+        <item>KKN Di Desa Penari diadaptasi dari salah satu cerita horror yang telah viral di tahun 2019 melalui Twitter, menurut sang penulis, cerita ini diambil dari sebuah kisah nyata sekelompok mahasiswa yang tengah melakukan program KKN (Kuliah Kerja Nyata) di Desa Penari.</item>
+        <item>Alice dan Rain, dua anggota tim komando elit, harus bertarung melawan para gerombolan zombie pemakan manusia yang dikendalikan oleh superkomputer jahat di dalam sebuah fasilitas penelitian genetika.</item>
+        <item>Shang-Chi (Simu Liu) harus menghadapi masa lalunya sebelum ia memilih untuk meninggalkan dan bergabung ke dalam sebuah organisasi bernama Ten Rings.</item>
+        <item>Karena krisis kekurangan karyawan pabrik, akhirnya Bossman berniat untuk mencari karyawan pabrik baru di Vietnam. Berangkatlah Bossman, Diana, Mr.Kho, dan Adrian ke Vietnam. Di Vietnam alih-alih mendapatkan karyawan, justru mereka mendapatkan masalah demi masalah bertubi-tubi karena ulah Bossman.</item>
+        <item>Ketika infeksi misterius melanda dunia dan mengubah manusia menjadi kawanan zombie, Gerry Lane, mantan penyelidik PBB, berpacu dengan waktu untuk menemukan sumber infeksi. Dunia di ambang kehancuran.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/avangers</item>
+        <item>@drawable/captain_marvel</item>
+        <item>@drawable/cek_toko_sebelah</item>
+        <item>@drawable/dilan</item>
+        <item>@drawable/jangkrik_bos</item>
+        <item>@drawable/kkn</item>
+        <item>@drawable/resident_evil</item>
+        <item>@drawable/shangchi</item>
+        <item>@drawable/stupid_bos</item>
+        <item>@drawable/world_war_z</item>
+    </integer-array>
+    <string name="list">List</string>
+    <string name="detail">Detail</string>
+    <string name="biodata">About</string>
+</resources>
