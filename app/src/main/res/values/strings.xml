@@ -2,6 +2,8 @@
     <string name="app_name">SubmissionAplikasiSederhana</string>
     <string name="heroes_name">Nama Film</string>
     <string name="description">Deskripsi</string>
+    <string name="penjualan_film">Penjualan</string>
+    <string name="rating">Rating</string>
     <string-array name="data_name">
         <item>Avangers</item>
         <item>Captain Marvel</item>
@@ -24,7 +26,7 @@
         <item>Alice dan Rain, dua anggota tim komando elit, harus bertarung melawan para gerombolan zombie pemakan manusia yang dikendalikan oleh superkomputer jahat di dalam sebuah fasilitas penelitian genetika.</item>
         <item>Shang-Chi (Simu Liu) harus menghadapi masa lalunya sebelum ia memilih untuk meninggalkan dan bergabung ke dalam sebuah organisasi bernama Ten Rings.</item>
         <item>Karena krisis kekurangan karyawan pabrik, akhirnya Bossman berniat untuk mencari karyawan pabrik baru di Vietnam. Berangkatlah Bossman, Diana, Mr.Kho, dan Adrian ke Vietnam. Di Vietnam alih-alih mendapatkan karyawan, justru mereka mendapatkan masalah demi masalah bertubi-tubi karena ulah Bossman.</item>
-        <item>Ketika infeksi misterius melanda dunia dan mengubah manusia menjadi kawanan zombie, Gerry Lane, mantan penyelidik PBB, berpacu dengan waktu untuk menemukan sumber infeksi. Dunia di ambang kehancuran.</item>
+        <item>Ketika infeksi misterius melanda dunia dan mengubah manusia menjadi kawanan zombie, Gerry Lane, mantan penyelidik PBB, berpacu dengan waktu untuk menemukan sumber infeksi zombie. Dunia di ambang kehancuran.</item>
     </string-array>
     <integer-array name="data_photo">
         <item>@drawable/avangers</item>
@@ -38,7 +40,36 @@
         <item>@drawable/stupid_bos</item>
         <item>@drawable/world_war_z</item>
     </integer-array>
+    <string-array name="data_penjualan">
+        <item>Avengers: Endgame masih terus menampilkan performa perkasa di box office. Hanya dalam satu minggu setelah rilis, film ini berhasil masuk daftar 10 film terlaris sepanjang masa. Berdasarkan data Box Office Mojo, Avengers: Endgame berhasil meraup penjualan USD 1,3 miliar atau Rp 19 triliun (USD 1 = Rp 14.204). Jumlah itu naik Rp 2 triliun dari awal minggu ini.</item>
+        <item>Film Captain Marvel resmi jadi box office dunia sejak tayang perdana 8 Maret 2019 lalu. Film pertama superhero wanita yang ada di Marvel Cinematic Universe (MCU) ini meraup pendapatan secara internasional  setelah Kamis dan Jumat pekan lalu yakni US$ 127 juta (Rp 1,8 triliun) termasuk US$ 34,3 juta (Rp 490 miliar) dari penayangan di China.</item>
+        <item>Film "Cek Toko Sebelah" yang disutradarai oleh Ernest Prakarsa berhasil mengumpulkan lebih dari 220 ribu penonton di hari ke-empat penanyangan di bioskop. Berkat antusias yang luar biasa itu, pihak bioskop pun menambahkan jumlah layar film "Cek Toko Sebelah" di beberapa kota sebagaimana semestinya ditulis dalam pers pada hari senin.</item>
+        <item>Max Pictures bermaksud melanjutkan ketenaran seri Dilan dengan merilis film ketiganya, Milea: Suara dari Dilan. Film tersebut mulai tayang di bioskop pada Kamis (13/2) melanjutkan sekuel Dilan 1990 dan Dilan 1991.Film pertamanya, Dilan 1990 berhasil meraup 6.315.664 penonton. Sehingga berhasil mengantongi pendapatan kotor sekitar Rp 252,6 miliar. Sekuel pertamanya, Dilan 1991 juga ditonton jutaan orang. Setidaknya 5.253.411 penonton mampu menyumbang pendapatan kotor sebesar Rp 210,1 miliar.</item>
+        <item>Menurut data Persatuan Artis Film Indonesia (Parfi), Warkop DKI Reborn: Jangkrik Boss! Part 1 adalah film terlaris di Indonesia sampai 2021. Tercatat, jumlah penonton film ini mencapai 6,85 juta.</item>
+        <item>KKN di Desa Penari berhasil menyedot lebih dari 7 juta penonton dalam kurun waktu kurang dari 1 bulan tayang. Film ini pun melesat ke urutan puncak film terlaris Indonesia selama periode 2007 sampai Mei 2022.Film KKN di Desa Penari diadaptasi dari kisah horor yang diunggah akun Twitter anonim bernama @SimpleM81378523. Kisah ini lantas viral dan menjadi trending topic di Twitter Indonesia pada 2019.</item>
+        <item>"Resident Evil: Retribution" menjadi film berpenghasilan terbanyak pada akhir pekan lalu dengan meraup pendapatan US$21,1 juta lewat penjualan tiket, dan langsung memimpin tangga "box office" Amerika Utara. Angka tersebut melanjutkan kesuksesan film-film sebelumnya, sementara film pertama "Resident Evil: Afterlife" meraup US$26 juta dalam pemutaran perdananya, pencapaian tertinggi bagi film "Resident Evil" sejak 2002.</item>
+        <item>Shang-Chi dinobatkan sebagai film terlaris sepanjang pandemi di Amerika Serikat setelah berhasil meraup keuntungan sebesar USD 183,4 juta atau setara dengan Rp 2,6 triliun. Film yang dibintangi Simu Liu ini juga berpeluang menjadi film pertama box office yang menyentuh angka USD 200 juta di era pandemi.</item>
+        <item>My Stupid Boss 2 berhasil menyedot perhatian lebih dari 1,26 juta penonton sejak dirilis 28 Maret 2019. Berdasarkan data Filmindonesia, sekuel My Stupid Boss tersebut kini berada di urutan ketiga sebagai film Indonesia terlaris hingga 7 April 2019.</item>
+        <item>Film yang dirilis pada tanggal 21 Juni 2013 di Amerika Serikat disutradarai oleh Marc Forster ini mendapatkan peringkat tertinggi dalam film zombie sepanjang masa dengan jumlah pendapatan sebanyak Rp7,1 triliun.</item>
+    </string-array>
+    <string-array name="data_rating">
+        <item>Rating pada film ini 9.5/10</item>
+        <item>Rating pada film ini 7.5/10</item>
+        <item>Rating pada film ini 8/10</item>
+        <item>Rating pada film ini 7.5/10</item>
+        <item>Rating pada film ini 8.2/10</item>
+        <item>Rating pada film ini 8.5/10</item>
+        <item>Rating pada film ini 9/10</item>
+        <item>Rating pada film ini 8.8/10</item>
+        <item>Rating pada film ini 7.5/10</item>
+        <item>Rating pada film ini 9/10</item>
+    </string-array>
     <string name="list">List</string>
     <string name="detail">Detail</string>
     <string name="biodata">About</string>
+    <string name="share">Share</string>
+    <string name="deskripsi">Deskripsi :</string>
+    <string name="penjualan">Penjualan :</string>
+    <string name="namaku">Arief Nauvan Ramadha</string>
+    <string name="email">nauvan121.@gmail.com</string>
 </resources>

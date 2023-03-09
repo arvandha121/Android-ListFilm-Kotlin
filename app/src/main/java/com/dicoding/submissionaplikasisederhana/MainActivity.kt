@@ -34,9 +34,6 @@ class MainActivity : AppCompatActivity() {
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         when (item.itemId) {
-            R.id.action_list -> {
-                rvFilm.layoutManager = LinearLayoutManager(this)
-            }
             R.id.action_biodata -> {
                 val intentDetail = Intent(this@MainActivity, BiodataActivity::class.java)
                 startActivity(intentDetail)
@@ -49,9 +46,11 @@ class MainActivity : AppCompatActivity() {
         val dataName = resources.getStringArray(R.array.data_name)
         val dataDescription = resources.getStringArray(R.array.data_description)
         val dataPhoto = resources.obtainTypedArray(R.array.data_photo)
+        val dataPenjualan = resources.getStringArray(R.array.data_penjualan)
+        val dataRating = resources.getStringArray(R.array.data_rating)
         val listFilm = ArrayList<Film>()
         for (i in dataName.indices) {
-            val film = Film(dataName[i], dataDescription[i], dataPhoto.getResourceId(i, -1))
+            val film = Film(dataName[i], dataDescription[i], dataPhoto.getResourceId(i, -1), dataPenjualan[i], dataRating[i])
             listFilm.add(film)
         }
         return listFilm
